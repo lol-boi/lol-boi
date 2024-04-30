@@ -2,7 +2,9 @@
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/50/5b/d4/505bd4e5e366328ee78c0bd274d84cc0.gif" width="25%" align="left" />
+<img src="https://i.pinimg.com/originals/50/5b/d4/505bd4e5e366328ee78c0bd274d84cc0.gif" width="25%" align="right" />
+  <br>
+  <br>
 <pre>
     💼 B.Tech @ JUET,Guna • Aspiring SDE
     💻 System programming languages • Exploring Gamedev
@@ -14,6 +16,7 @@
 </div>
 
 
+<br><br>
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
