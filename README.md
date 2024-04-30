@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @lol-boi
-- 👀 I’m interested in Dart,Python and SQL.
-- 🌱 I’m currently learning Dart.
-- 💞️ I’m looking to collaborate on any python project
-- 📫 Reach me on my E-mail amanwastakenwastaken1@gmail.com.
+<body>
+  <center>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<img src="https://i.pinimg.com/originals/50/5b/d4/505bd4e5e366328ee78c0bd274d84cc0.gif" width="25%" align="left" />
+<div align="center">
+<pre>
+    💼 B.Tech @ JUET,Guna • Aspiring SDE
+    💻 System programming languages • Exploring Gamedev
+    📖 Operating Systems • Algorithms & Pattern Recognition
+    📠 Git • C/C++ • Rust❤️ • Python • Linux
+    🎮 Music • Anime • Code • Art • Volleyball
+    📝 Want To Start Blogging For Fun
+</pre>
+</div>
 
-<!---
-lol-boi/lol-boi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif">
+</div>
