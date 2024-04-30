@@ -1,8 +1,8 @@
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<img src="https://i.pinimg.com/originals/50/5b/d4/505bd4e5e366328ee78c0bd274d84cc0.gif" width="25%" align="left" />
 <div align="center">
+  <img src="https://i.pinimg.com/originals/50/5b/d4/505bd4e5e366328ee78c0bd274d84cc0.gif" width="25%" align="left" />
 <pre>
     💼 B.Tech @ JUET,Guna • Aspiring SDE
     💻 System programming languages • Exploring Gamedev
